@@ -8,5 +8,7 @@ By using specific inputs for Node in the Terminal, we can fetch information from
 The Terminal Commands are 
 
 node liri.js movie-this <"name of a movie">
+
 node liri.js spotify-this-song <"song title">
+
 node liri.js concert-this <"band name">
