@@ -9,18 +9,17 @@ var song = new Song();
 var show = new Shows();
 
 var search = process.argv[2];
-var movieInput = process.argv.slice(3).join(" ");
-var songInput = process.argv.slice(3).join(" ");
-var showInput = process.argv.slice(3).join(" ");
+
+var input = process.argv.slice(3).join(" ");
 
 if (search === "movie-this") {
-  movie.findMovie(movieInput);
+  movie.findMovie(input);
 } 
 else if (search === "spotify-this-song") {
-  song.findSong(songInput);
+  song.findSong(input);
 }
 else if (search === "concert-this") {
-  show.findshow(showInput);
+  show.findshow(input);
 }
 
 // > node liri.js do-what-it-says
