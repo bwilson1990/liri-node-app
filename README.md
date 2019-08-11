@@ -16,4 +16,4 @@ node liri.js concert-this <"band name">
 **Screenshots**
 
 
-![] (concert-search.png)
+![](image.png)
