@@ -17,3 +17,7 @@ node liri.js concert-this <"band name">
 
 
 ![](./images/concert-search1.png)
+![](./images/concert-search2.png)
+![](./images/movie-search1.png)
+![](./images/movie-search2.png)
+![](./images/song-search-ERROR.png)
