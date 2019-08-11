@@ -13,9 +13,9 @@ node liri.js spotify-this-song <"song title">
 
 node liri.js concert-this <"band name">
 
-**Screenshots**
+# Screenshots
 
-```Seaching for a concert by band.
+**Seaching for a concert by band.
 ![](./images/concert-search1.png)
 Results of concert search.
 ![](./images/concert-search2.png)
@@ -25,4 +25,3 @@ Results of movie search.
 ![](./images/movie-search2.png)
 Error with song search.
 ![](./images/song-search-ERROR.png)
-```
