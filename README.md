@@ -1,5 +1,7 @@
 # liri-node-app
 
+## Overview
+
 The purpose of this assignment is to create a search engine that is able to use APIs from Spotify, Bands In Town and OMDB to get information
 for song names, bands on tour and movies using Node.js.
 
@@ -12,6 +14,8 @@ node liri.js movie-this <"name of a movie">
 node liri.js spotify-this-song <"song title">
 
 node liri.js concert-this <"band name">
+
+---
 
 ## Technologies Used
 * Javascript
@@ -35,19 +39,25 @@ node liri.js concert-this <"band name">
 * songs.js
 
 ---
+
 # Screenshots
 
 **Seaching for a concert by band.**
+
 ![](./images/concert-search1.png)
 
 **Results of concert search.**
+
 ![](./images/concert-search2.png)
 
 **Searching for a movie by title.**
+
 ![](./images/movie-search1.png)
 
 **Results of movie search.**
+
 ![](./images/movie-search2.png)
 
 **Error with song search.**
+
 ![](./images/song-search-ERROR.png)
