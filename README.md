@@ -26,15 +26,13 @@ node liri.js concert-this <"band name">
 ## File Structure
 
 -Root
-* concert.js
+* shows.js
 * keys.js
 * liri.js
-* log.txt
 * movie.js
 * package.json
 * random.txt
 * songs.js
-* spotifyobject.js
 
 ---
 # Screenshots
