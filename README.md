@@ -13,6 +13,30 @@ node liri.js spotify-this-song <"song title">
 
 node liri.js concert-this <"band name">
 
+## Technologies Used
+* Javascript
+* Node.js
+* Axios
+* Moment.js
+* Spotify API
+* OMDB API
+
+---
+
+## File Structure
+
+-Root
+* concert.js
+* keys.js
+* liri.js
+* log.txt
+* movie.js
+* package.json
+* random.txt
+* songs.js
+* spotifyobject.js
+
+---
 # Screenshots
 
 **Seaching for a concert by band.**
